@@ -7,6 +7,7 @@ Licence under Creative Commons Attribution 3.0
 @charset "utf-8";
 @import url(http://fonts.googleapis.com/css?family=Raleway:800,700,400);
 @import url(http://fonts.googleapis.com/css?family=Signika:400,600);
+@import url(https://fonts.googleapis.com/css?family=Caudex:400,700,900);
 
 /* Reset
 ---------------------------------*/
@@ -301,8 +302,8 @@ body {
 
 h2 {
     font-size: 38px;
-    color: #222222;
-    font-family: 'Raleway', sans-serif;
+    color: #c73d3d;
+    font-family: 'Caudex', serif;
     font-weight: normal;
     margin: 0px 0 25px 0;
     text-align: center;
@@ -310,7 +311,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Caudex', serif;
     font-weight: 600;
     color: #222222;
     font-size: 18px;
@@ -319,8 +320,8 @@ h3 {
 
 h6 {
     font-size: 16px;
-    color: #FFFFFF;
-    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    font-family: 'Caudex', serif;
     font-weight: 400;
     text-align: center;
     margin: 0 0 60px 0;
@@ -638,7 +639,7 @@ div#main-nav {
     background: #f5f1f3;
 }
 #service h2{
-  color: #ed2932;
+  color: #e7323b;
 
 }
 .service_wrapper {
@@ -693,7 +694,7 @@ text-align: center;
 margin: 35px 0 15px; 
 }
 #service h6{
-color:#fff;
+color:#000000;
 }
 .service_block p {
     font-size: 16px;
